@@ -1,0 +1,19 @@
+{
+  "name": "talkie",
+  "description": "A small module for handling animation frames in smaller, stackable pieces",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/talkie"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/talkie/issues"
+  }
+}
